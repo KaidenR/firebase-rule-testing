@@ -1,0 +1,31 @@
+{
+  "name": "firebase-rule-testing",
+  "version": "1.0.0",
+  "description": "Helpers for testing your Firebase DB rules!",
+  "main": "mockDb.js",
+  "dependencies": {
+    "lodash": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaidenR/firebase-rule-testing.git"
+  },
+  "keywords": [
+    "Firebase",
+    "firebasedb",
+    "rules",
+    "db-rules",
+    "testing",
+    "test"
+  ],
+  "author": "Kaiden Rawlinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaidenR/firebase-rule-testing/issues"
+  },
+  "homepage": "https://github.com/KaidenR/firebase-rule-testing#readme"
+}
